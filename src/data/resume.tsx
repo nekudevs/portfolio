@@ -81,7 +81,7 @@ export const DATA = {
       badges: [],
       href: "https://www.ibm.com",
       location: "On-Site",
-      title: "Data Analyst",
+      title: "Information Technology Intern",
       logoUrl: "/ibm.png",
       start: "July 2019",
       end: "July 2019",
@@ -109,7 +109,7 @@ export const DATA = {
     {
       school: "Noadswood School",
       href: "https://www.noadswood.hants.sch.uk/",
-      degree: "GCSEs including: \n Mathematics (7), \n Computer Science (7), \n Combined Science (8,8), \n English Language (5), \n English Literature (6), \n French (6), \n Graphics (7) \n Portuguese (A), \n Media Studies (7)",
+      degree: "GCSEs in \n Mathematics (7), \n Computer Science (7), \n Combined Science (8,8), \n English Language (5), \n English Literature (6), \n French (6), \n Graphics (7) \n Portuguese (A), \n Media Studies (7)",
       logoUrl: "/noadswood.png",
       start: "2014",
       end: "2019",
