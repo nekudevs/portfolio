@@ -1,79 +1,47 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+<div align="center">
+<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+</div>
 
-### Live - https://react-portfolio-template.netlify.app
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-### Open Source UI Components - https://ui.chetanverma.com/
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
 
-### Tutorials
+Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
+# Features
 
-Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
+- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
+- Includes a blog
+- Responsive for different devices
+- Optimized for Next.js and Vercel
 
-### Features - 
+# Getting Started Locally
 
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+1. Clone this repository to your local machine:
 
+   ```bash
+   git clone https://github.com/dillionverma/portfolio
+   ```
 
-### Sections
+2. Move to the cloned directory
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+   ```bash
+   cd portfolio
+   ```
 
+3. Install dependencies:
 
-### How To Use
+   ```bash
+   pnpm install
+   ```
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
+4. Start the local Server:
 
+   ```bash
+   pnpm dev
+   ```
 
-### How To Deploy - 
+5. Open the [Config file](./src/data/resume.tsx) and make changes
 
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
+# License
 
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
-
-
-### How To Contribute - 
-
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
-
-
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
+Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
