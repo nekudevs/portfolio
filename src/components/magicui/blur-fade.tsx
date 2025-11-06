@@ -14,7 +14,9 @@ interface BlurFadeProps {
   delay?: number;
   yOffset?: number;
   inView?: boolean;
-  inViewMargin?: string;
+  // useInView expects a MarginType from framer-motion; accept any here to avoid
+  // a strict mismatch caused by different library type definitions.
+  inViewMargin?: any;
   blur?: string;
 }
 const BlurFade = ({
