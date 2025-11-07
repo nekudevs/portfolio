@@ -241,73 +241,56 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "HackDavis",
-      dates: "January 20th - 21st, 2018",
-      location: "Davis, California",
+      title: "HackSussex Hackathon 2024",
+      dates: "17th February - 18th February, 2024",
+      location: "Brighton and Hove, UK",
       description:
-        "Developed a mobile application which allocates a daily carbon emission allowance to users to move towards a sustainable environment.",
+        "Went as part of University of Brighton IO Society's representation, helped mentor society members and coach them through the experience and any issues they had.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-davis.png",
+        "/hacksussex.png",
       win: "Best Data Hack",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2018/white.svg",
       links: [
         {
-          title: "Devpost",
+          title: "HackSussex",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://devpost.com/software/my6footprint",
-        },
-        {
-          title: "ML",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/my6footprint-machine-learning",
-        },
-        {
-          title: "iOS",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/CarbonWallet",
-        },
-        {
-          title: "Server",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/wallet6-server",
+          href: "https://www.hacksussex.com/",
         },
       ],
     },
     {
-      title: "ETH Waterloo",
-      dates: "October 13th - 15th, 2017",
-      location: "Waterloo, Ontario",
+      title: "IO Society Hackathon",
+      dates: "22nd March",
+      location: "Brighton and Hove, UK",
       description:
-        "Developed a blockchain application for doctors and pharmacists to perform trustless transactions and prevent overdosage in patients.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/eth-waterloo.png",
+        "Hosted and organized the University of Brighton's first ever hackathon with 10+ participants.",
+      image: "/io.png",
       links: [
         {
-          title: "Organization",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/ethdocnet",
+          title: "Instagram",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://www.instagram.com/p/Cp27iNqKjn1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         },
       ],
     },
     {
-      title: "Hack The North",
-      dates: "September 15th - 17th, 2017",
-      location: "Waterloo, Ontario",
+      title: "HackSussex Hackathon 2023",
+      dates: "5th March - 6th March, 2023",
+      location: "Brighton and Hove, UK",
       description:
-        "Developed a virtual reality application allowing users to see themselves in third person.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
+        "Developed a prototype motion control knife throwing game using Unreal Blueprints and created models in Blender.",
+      image: "/hacksussex.png",
+      mlh: "",
       links: [
         {
-          title: "Streamer Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/justinmichaud/htn2017",
+          title: "Man'O'Knife Presentation",
+          icon: <Icons.youtube className="h-4 w-4" />,
+          href: "https://youtu.be/2nnySeUFI3w?si=wcXqlzb1YMFQuFSg&t=26281",
         },
         {
-          title: "Client Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/RTSPClient",
+          title: "HackSussex",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://www.hacksussex.com/",
         },
       ],
     },
