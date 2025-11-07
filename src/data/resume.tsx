@@ -145,36 +145,26 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "IO",
+      href: "https://www.instagram.com/io_society/?hl=en",
+      dates: "Sept 2022 - May 2024",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Created and lead the University of Brighton's first ever tech society, IO Society. Organized weekly workshops and talks, hackathons, and social events for society members. Also lead the marketing, all promotional images prior to May 2024 were done by myself using Photoshop, Procreate and Canva.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Photoshop",
+        "Procreate",
+        "Canva",
       ],
       links: [
         {
-          type: "Website",
-          href: "https://magicui.design",
+          type: "Instagram",
+          href: "https://www.instagram.com/io_society/?hl=en",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/io.png",
+      video: "",
     },
     {
       title: "llm.report",
@@ -259,8 +249,8 @@ export const DATA = {
       ],
     },
     {
-      title: "IO Society Hackathon",
-      dates: "22nd March",
+      title: "IO Society Hackathon 2023",
+      dates: "22nd March 2023",
       location: "Brighton and Hove, UK",
       description:
         "Hosted and organized the University of Brighton's first ever hackathon with 10+ participants.",
