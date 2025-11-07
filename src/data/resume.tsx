@@ -122,7 +122,7 @@ export const DATA = {
       dates: "Sept 2023 - June 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "Created a natural language AI assistant for the Boston Dynamics Spot robot which can understand and execute voice commands. Integrated ElevenLabs text-to-speech for realistic voice responses and OpenAI Whisper for accurate speech recognition. Developed using Python and the Spot SDK, enabling dynamic interactions with the robot such as movement or assistant. The problem was tackling the Spot's capabilities to help in real world situations.",
       technologies: [
         "Python",
         "Spot SDK",
@@ -184,33 +184,28 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      title: "Festimo",
+      href: "",
+      dates: "December 2024 - July 2025",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "Developed a cross-platform mobile application using Flutter and Dart to help users share photos and events via user created albums which enabled synchronous photo sharing during festivals and events. Implemented features such as real-time chat, photo uploads, and event scheduling. Integrated FastAPI backend for user authentication and data management, hosted on AWS S3 with Docker and Kubernetes for scalability.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "Flutter",
+        "Dart",
+        "Javascript",
+        "HTML/CSS",
+        "MaterialUI",
+        "FastAPI",
+        "AWS S3",
+        "Docker",
+        "Kubernetes",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://automatic.chat",
-          icon: <Icons.globe className="size-3" />,
-        },
       ],
-      image: "",
+      image: "/festimo.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "",
     },
   ],
   hackathons: [
