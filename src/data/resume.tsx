@@ -26,10 +26,11 @@ export const DATA = {
     "C#",
     "CI/CD",
     "Data Analytics",
-    "Postgres",
+    "PostgreSQL",
     "Docker",
-    "Kubernetes",
     "Java",
+    "Springboot",
+    "MySQL"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -65,10 +66,22 @@ export const DATA = {
 
   work: [
     {
+      company: "FDM Group",
+      badges: [],
+      href: "https://www.fdmgroup.com/",
+      location: "London, Hybrid",
+      title: "Software Consultant",
+      logoUrl: "/fdm.png",
+      start: "Dec 2025",
+      end: "Current",
+      description:
+        "Finished Full Stack Development training and currently awaiting to be assigned to a lucky client.",
+    },
+    {
       company: "Falcon Coffees Ltd.",
       badges: [],
       href: "https://falconcoffees.com",
-      location: "Remote",
+      location: "Lewes, Remote",
       title: "Data Analyst",
       logoUrl: "/falconcoffees.png",
       start: "August 2024",
@@ -80,7 +93,7 @@ export const DATA = {
       company: "IBM",
       badges: [],
       href: "https://www.ibm.com",
-      location: "On-Site",
+      location: "Southampton, On-Site",
       title: "Information Technology Intern",
       logoUrl: "/ibm.png",
       start: "July 2019",
