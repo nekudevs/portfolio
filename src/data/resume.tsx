@@ -18,6 +18,8 @@ export const DATA = {
     "Figma",
     "Photoshop",
     "Next.js",
+    "Azure Devops",
+    "Jira",
     "Typescript",
     "Node.js",
     "Python",
@@ -69,6 +71,18 @@ export const DATA = {
     {
       company: "FDM Group",
       badges: [],
+      href: "https://www.lsbu.ac.uk/",
+      location: "London, Remote",
+      title: "Digital Transformation Developer",
+      logoUrl: "/lsbu.png",
+      start: "Jul 2025",
+      end: "Current",
+      description:
+        "Assisting in system integration and upkeep of student/staff record data and third line support.",
+    },
+    {
+      company: "FDM Group",
+      badges: [],
       href: "https://www.fdmgroup.com/",
       location: "London, Hybrid",
       title: "Software Consultant",
@@ -108,25 +122,19 @@ export const DATA = {
       school: "University of Brighton",
       href: "https://www.brighton.ac.uk/index.aspx",
       degree: "2:1 Bachelor's Degree of Software Engineering (BSc)",
-      logoUrl: "/brightonuni.png",
-      start: "2021",
-      end: "2024",
+      logoUrl: "/brightonuni.png"
     },
     {
       school: "Brockenhurst College",
       href: "https://www.brock.ac.uk/",
       degree: "A-Levels in Mathematics (A), Computer Science (B) and Animation (B)",
-      logoUrl: "/brockcollege.png",
-      start: "2019",
-      end: "2021",
+      logoUrl: "/brockcollege.png"
     },
     {
       school: "Noadswood School",
       href: "https://www.noadswood.hants.sch.uk/",
       degree: "GCSEs in \n Mathematics (7), \n Computer Science (7), \n Combined Science (8,8), \n English Language (5), \n English Literature (6), \n French (6), \n Graphics (7) \n Portuguese (A), \n Media Studies (7)",
-      logoUrl: "/noadswood.png",
-      start: "2014",
-      end: "2019",
+      logoUrl: "/noadswood.png"
     },
   ],
   projects: [
