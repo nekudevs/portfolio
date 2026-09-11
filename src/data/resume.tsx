@@ -122,19 +122,25 @@ export const DATA = {
       school: "University of Brighton",
       href: "https://www.brighton.ac.uk/index.aspx",
       degree: "2:1 Bachelor's Degree of Software Engineering (BSc)",
-      logoUrl: "/brightonuni.png"
+      logoUrl: "/brightonuni.png",
+      start: "",
+      end: "",
     },
     {
       school: "Brockenhurst College",
       href: "https://www.brock.ac.uk/",
       degree: "A-Levels in Mathematics (A), Computer Science (B) and Animation (B)",
-      logoUrl: "/brockcollege.png"
+      logoUrl: "/brockcollege.png",
+      start: "",
+      end: "",
     },
     {
       school: "Noadswood School",
       href: "https://www.noadswood.hants.sch.uk/",
       degree: "GCSEs in \n Mathematics (7), \n Computer Science (7), \n Combined Science (8,8), \n English Language (5), \n English Literature (6), \n French (6), \n Graphics (7) \n Portuguese (A), \n Media Studies (7)",
-      logoUrl: "/noadswood.png"
+      logoUrl: "/noadswood.png",
+      start: "",
+      end: "",
     },
   ],
   projects: [
